@@ -3,7 +3,7 @@ Components:
   2. Line Follower Array
   3. HC-SR04 Ultrasonic Sensor
   4. HC-05 Bluetooth module
-  5. L9110 H bridge
+  5. L9110s H bridge
   6. DC motors x 2
   7. Chassis, wheels, breadboard, battery
 
